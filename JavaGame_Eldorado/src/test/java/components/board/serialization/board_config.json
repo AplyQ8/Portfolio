@@ -1,0 +1,103 @@
+{
+  "tiles": [
+    {
+      "tileType": "A",
+      "rotation": 0,
+      "coordinates": [0, 0],
+      "number": 1
+    },
+    {
+      "tileType": "I",
+      "rotation": 60,
+      "coordinates": [7, -3],
+      "number": 2
+    },
+    {
+      "tileType": "C",
+      "rotation": 60,
+      "coordinates": [14, -7],
+      "number": 3
+    },
+    {
+      "tileType": "M",
+      "rotation": 120,
+      "coordinates": [21, -10],
+      "number": 4
+    },
+    {
+      "tileType": "K",
+      "rotation": 60,
+      "coordinates": [9, 2],
+      "number": 5
+    },
+    {
+      "tileType": "G",
+      "rotation": 120,
+      "coordinates": [19, -3],
+      "number": 7
+    },
+    {
+      "tileType": "E",
+      "rotation": 180,
+      "coordinates": [26, -5],
+      "number": 8
+    }
+  ],
+  "strips": [
+    {
+      "tileType": "Q",
+      "rotation": 60,
+      "coordinates": [[14, -1], [14, 0]],
+      "number": 6
+    },
+    {
+      "tileType": "O",
+      "rotation": 0,
+      "coordinates": [[22, 0], [23, 0]],
+      "number": 9
+    }
+  ],
+  "blockades": [
+    {
+      "number": 3,
+      "power": 1,
+      "type": "gray",
+      "between": ["A", "I"]
+    },
+    {
+      "number": 2,
+      "power": 1,
+      "type": "gold",
+      "between": ["I", "C"]
+    },
+    {
+      "number": 1,
+      "power": 1,
+      "type": "green",
+      "between": ["C", "M"]
+    },
+    {
+      "number": 4,
+      "power": 1,
+      "type": "blue",
+      "between": ["I", "K"]
+    },
+    {
+      "number": 6,
+      "power": 2,
+      "type": "gray",
+      "between": ["M", "G"]
+    },
+    {
+      "number": 5,
+      "power": 2,
+      "type": "green",
+      "between": ["G", "E"]
+    }
+  ],
+  "endTile": {
+    "type": "blue",
+    "rotation": 120,
+    "coordinates": [24, 2]
+  }
+}

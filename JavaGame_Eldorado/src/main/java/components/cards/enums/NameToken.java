@@ -1,0 +1,26 @@
+package components.cards.enums;
+
+public enum NameToken {
+
+    TRAVELLER,
+    EXPLORER,
+    SAILOR,
+    PHOTOGRAPHER,
+    JOURNALIST,
+    TREASURE_CHEST,
+    MILLIONAIRE,
+    SCOUT,
+    TRAILBLAZER,
+    PIONEER,
+    GIANT_MACHETE,
+    CAPTAIN,
+    PROP_PLANE,
+    ADVENTURER,
+    JACK_OF_ALL_TRADES,
+    TRANSMITTER,
+    CARTOGRAPHER,
+    COMPASS,
+    SCIENTIST,
+    TRAVEL_LOG,
+    NATIVE
+}

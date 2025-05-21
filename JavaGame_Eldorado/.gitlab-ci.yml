@@ -1,0 +1,82 @@
+image: maven:3.9.5-eclipse-temurin-21
+
+stages:
+  - build
+  - test
+  - report
+
+build_job:
+  stage: build
+  before_script:
+    - apt-get update
+    - apt-get install -y --no-install-recommends openjfx
+    - apt-get install -y xvfb
+  script:
+    - echo "Maven build started"
+    - xvfb-run mvn --no-transfer-progress clean  # Build the project
+  allow_failure: false
+
+test_job:
+  stage: test
+  before_script:
+    - apt-get update
+    - apt-get install -y openjfx
+    - apt-get install -y xvfb
+  script:
+    - echo "Maven test started"
+    - xvfb-run mvn --no-transfer-progress test  # Run the unit tests
+  allow_failure: true
+  artifacts:
+    paths:
+      - target/site/jacoco/**/*
+    reports:
+      junit: target/surefire-reports/TEST-*.xml
+
+
+coverage:
+  stage: report
+  before_script:
+    - apt-get update
+    - apt-get install -y openjfx
+    - apt-get install -y xvfb
+  script:
+    - xvfb-run mvn verify
+  artifacts:
+    when: always
+    paths:
+      - ./target/site/
+    expire_in: 30 min
+
+
+
+sigridci:
+  stage: report
+  image:
+    name: softwareimprovementgroup/sigridci
+  script:
+    - sigridci.py --customer Utst --system elDorado06 --source .
+  allow_failure: true
+  artifacts:
+    paths:
+      - "sigrid-ci-output/*"
+    reports:
+      junit: "sigrid-ci-output/sigridci-junit-format-report.xml"
+    expire_in: 1 week
+    when: always
+  rules:
+    - if: $CI_MERGE_REQUEST_ID
+
+sigridpublish:
+  stage: report
+  image:
+    name: softwareimprovementgroup/sigridci
+  script:
+    - sigridci.py --customer Utst --system elDorado06 --source . --publish
+  allow_failure: true
+  artifacts:
+    paths:
+      - "sigrid-ci-output/*"
+    expire_in: 1 week
+    when: always
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

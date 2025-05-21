@@ -31,7 +31,7 @@ Handles:
 - Tracks logged-in users
 - Central authority for verifying user identity
 
-![Code](src/UserManagementService/springboot-app/src/main/java/com/UserManagementService/springbootapp)
+[Code](src/UserManagementService/springboot-app/src/main/java/com/UserManagementService/springbootapp)
 
 ### 2. 💳 Subscription Service
 Manages:
@@ -39,7 +39,7 @@ Manages:
 - Purchasing logic (interacts with Payment Service)
 - Verifies user access to services
 
-![Code](src/SubscriptionService/springboot-app/src/main/java/com/SubscriptionMicroservice/springbootapp)
+[Code](src/SubscriptionService/springboot-app/src/main/java/com/SubscriptionMicroservice/springbootapp)
 
 ### 3. 🧾 Payment Service
 Processes:
@@ -47,7 +47,7 @@ Processes:
 - Stores transactions
 - Exposes NodePort for direct REST communication
 
-![Code](src/PaymentService/PaymentService/src/main/java/SOA_Microservices/PaymentService)
+[Code](src/PaymentService/PaymentService/src/main/java/SOA_Microservices/PaymentService)
 
 ### 4. 🏟 Infrastructure Service
 Controls:
@@ -55,14 +55,14 @@ Controls:
 - Booking visits to facilities
 - Validates user access and capacity
 
-![Code](src/InfrastructureService/springbootapp/target/classes/com/InfrastructureService/springbootapp)
+[Code](src/InfrastructureService/springbootapp/target/classes/com/InfrastructureService/springbootapp)
 
 ### 5. 🗓 Event Service
 Features:
 - Creating/registering for events
 - Checks hall availability through Infrastructure Service
 
-![Code](src/EventsService/springbootapp/target/classes/com/EventsService/springbootapp)
+[Code](src/EventsService/springbootapp/target/classes/com/EventsService/springbootapp)
 
 ### 6. 💬 Chat Service
 Supports:
@@ -70,7 +70,7 @@ Supports:
 - Message posting and listing
 - Fosters a sports center community
 
-![Code](src/ChatService/springbootapp/target/classes/com/ChatService/springbootapp)
+[Code](src/ChatService/springbootapp/target/classes/com/ChatService/springbootapp)
 
 ---
 
@@ -81,7 +81,7 @@ Supports:
 - Connects to **RabbitMQ** and listens for responses on a unique queue using GUID
 - Mixes **asynchronous messaging** and **synchronous REST** where needed (e.g., payment flow)
 
-![Code](src/WPF_Client)
+[Code](src/WPF_Client)
 
 ---
 
@@ -115,7 +115,6 @@ Communication is mostly **asynchronous**, ensuring UI responsiveness and non-blo
 
 ## 🧪 Testing
 
-- No automated unit testing was used due to time constraints
 - **Manual testing** was extensively performed to validate all functional flows, including:
   - Authentication
   - Subscription flows

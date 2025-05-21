@@ -41,9 +41,9 @@ A digital implementation of the board game **The Quest for El Dorado**, created 
 
 ### Design Patterns Used
 
-- **Singleton** – for global `GameManager`
-- **Abstract Factory** – for card creation
-- **Strategy** – to handle multiple gameplay rules and player turn logic
+- **Singleton** – for global `GameManager` ![Code](src/main/java/components/gameManager/GameManager.java)
+- **Abstract Factory** – for card creation ![Code](src/main/java/components/cards)
+- **Strategy** – to handle multiple gameplay rules and player turn logic ![Code](src/main/java/components/gameManager/ActionHandlers/TurnHandler)
 
 ---
 
@@ -64,6 +64,8 @@ A digital implementation of the board game **The Quest for El Dorado**, created 
 - **JUnit**: unit and integration tests
 - **TestFX**: system/UI interaction tests
 - **CI Integration**: tests run automatically on push/merge
+
+Code for test you can see ![here](src/test/java)
 
 ---
 

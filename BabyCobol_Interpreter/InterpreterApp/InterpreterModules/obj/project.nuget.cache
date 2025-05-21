@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6lj21vdfSjzH6kgWYWloWKTKw1+Hs8feRPlZNSIZnsEY0/A1FisiMEj2Y2yE4aVwxcZDsFz2m03MT73L08+CAg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Repos\\SoftWarEvolution\\InterpreterApp\\InterpreterModules\\InterpreterModules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiril\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

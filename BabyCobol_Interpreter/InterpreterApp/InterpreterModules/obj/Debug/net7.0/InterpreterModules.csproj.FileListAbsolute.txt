@@ -1,0 +1,12 @@
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\bin\Debug\net7.0\InterpreterModules.deps.json
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\bin\Debug\net7.0\InterpreterModules.dll
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\bin\Debug\net7.0\InterpreterModules.pdb
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.csproj.AssemblyReference.cache
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.AssemblyInfoInputs.cache
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.AssemblyInfo.cs
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.dll
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\refint\InterpreterModules.dll
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\InterpreterModules.pdb
+D:\GitHub Repos\SoftWarEvolution\InterpreterApp\InterpreterModules\obj\Debug\net7.0\ref\InterpreterModules.dll

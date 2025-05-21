@@ -76,12 +76,16 @@ A digital implementation of the board game **The Quest for El Dorado**, created 
 
 ---
 
-### Example Diagrams
-
+## Example Diagrams
+### Class Diagram (key classes)
 - ![Class Diagram (key classes)](Diagrams/classDiag.png)
+### Game controllers class diagram
 - ![Game controllers class diagram](Diagrams/gameControlls.png)
+### Game board class diagram
 - ![Game board class diagram](Diagrams/gameBoard.png)
+### Visualizers class diagram
 - ![Visualizers class diagram](Diagrams/Visualizers.png)
+### Cards, Player and Tokens class diagram
 - ![Cards, Player and Tokens class diagram](Diagrams/playerCD.png)
 
 

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d402c0d-d2a0-4065-9f48-c9cd24f21557" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../WPF_Client/.vs/WPF_Client/FileContentIndex/36191bbd-d6c7-4b77-a288-9394f6376ad0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WPF_Client/.vs/WPF_Client/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../WPF_Client/.vs/WPF_Client/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WPF_Client/.vs/WPF_Client/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WPF_Client/.vs/WPF_Client/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WPF_Client/WPF_Client/PaymentForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WPF_Client/WPF_Client/PaymentForm.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eMlORAuHe6yZ87mXk6PMFSfwfb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.InfrastructureServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;KubernetesDeployment__branch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="InfrastructureServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springbootapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.InfrastructureService.springbootapp.InfrastructureServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d402c0d-d2a0-4065-9f48-c9cd24f21557" name="Changes" comment="" />
+      <created>1711722296700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711722296700</updated>
+      <workItem from="1711722299136" duration="191000" />
+      <workItem from="1711982595606" duration="128000" />
+      <workItem from="1712152629471" duration="3634000" />
+      <workItem from="1712184949183" duration="1464000" />
+      <workItem from="1712224632352" duration="3866000" />
+      <workItem from="1712253526903" duration="635000" />
+      <workItem from="1712309663993" duration="3494000" />
+      <workItem from="1712530461477" duration="25000" />
+      <workItem from="1712530515515" duration="938000" />
+      <workItem from="1712597667973" duration="2680000" />
+      <workItem from="1712609312054" duration="1261000" />
+      <workItem from="1712656513120" duration="4240000" />
+      <workItem from="1712846728647" duration="673000" />
+      <workItem from="1713799845844" duration="1126000" />
+      <workItem from="1717668511633" duration="463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

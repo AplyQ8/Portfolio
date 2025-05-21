@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|d:\\github repos\\soa_microservices\\wpf_client\\wpf_client\\subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|solutionrelative:wpf_client\\subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\wpf_client\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|solutionrelative:wpf_client\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|d:\\github repos\\soa_microservices\\wpf_client\\clientbacklogic\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|solutionrelative:clientbacklogic\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|d:\\github repos\\soa_microservices\\wpf_client\\clientbacklogic\\requests\\paymentconfirmationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|solutionrelative:clientbacklogic\\requests\\paymentconfirmationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\wpf_client\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|solutionrelative:wpf_client\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\RegistrationForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|solutionrelative:WPF_Client\\RegistrationForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF307B3-91D1-4651-B306-00C29930485F}|WPF_Client\\WPF_Client.csproj|solutionrelative:WPF_Client\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Entities\\SubscriptionEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|solutionrelative:ClientBackLogic\\Entities\\SubscriptionEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Requests\\BaseRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}|ClientBackLogic\\ClientBackLogic.csproj|solutionrelative:ClientBackLogic\\Requests\\BaseRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMq.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\RabbitMq.cs",
+              "RelativeDocumentMoniker": "ClientBackLogic\\RabbitMq.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\RabbitMq.cs",
+              "RelativeToolTip": "ClientBackLogic\\RabbitMq.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:03:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentConfirmationRequest.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Requests\\PaymentConfirmationRequest.cs",
+              "RelativeDocumentMoniker": "ClientBackLogic\\Requests\\PaymentConfirmationRequest.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Requests\\PaymentConfirmationRequest.cs",
+              "RelativeToolTip": "ClientBackLogic\\Requests\\PaymentConfirmationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:02:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "WPF_Client\\PaymentForm.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\PaymentForm.cs",
+              "RelativeToolTip": "WPF_Client\\PaymentForm.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:05:41.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionForm.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\SubscriptionForm.cs",
+              "RelativeDocumentMoniker": "WPF_Client\\SubscriptionForm.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\SubscriptionForm.cs",
+              "RelativeToolTip": "WPF_Client\\SubscriptionForm.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAA7wJ8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:03:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "WPF_Client\\PaymentForm.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\PaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WPF_Client\\PaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:18:57.767Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "WPF_Client\\RegistrationForm.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\RegistrationForm.cs",
+              "RelativeToolTip": "WPF_Client\\RegistrationForm.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAqwIQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:53:07.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\Form1.cs",
+              "RelativeDocumentMoniker": "WPF_Client\\Form1.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\WPF_Client\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WPF_Client\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:49:29.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriptionEntity.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Entities\\SubscriptionEntity.cs",
+              "RelativeDocumentMoniker": "ClientBackLogic\\Entities\\SubscriptionEntity.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Entities\\SubscriptionEntity.cs",
+              "RelativeToolTip": "ClientBackLogic\\Entities\\SubscriptionEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:48:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRequest.cs",
+              "DocumentMoniker": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Requests\\BaseRequest.cs",
+              "RelativeDocumentMoniker": "ClientBackLogic\\Requests\\BaseRequest.cs",
+              "ToolTip": "D:\\GitHub Repos\\SOA_Microservices\\WPF_Client\\ClientBackLogic\\Requests\\BaseRequest.cs",
+              "RelativeToolTip": "ClientBackLogic\\Requests\\BaseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:45:57.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportCenter_Client", "SportCenter_Client\SportCenter_Client.csproj", "{95EDF7B3-C763-4720-84F5-F5963B915650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95EDF7B3-C763-4720-84F5-F5963B915650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EDF7B3-C763-4720-84F5-F5963B915650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EDF7B3-C763-4720-84F5-F5963B915650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EDF7B3-C763-4720-84F5-F5963B915650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

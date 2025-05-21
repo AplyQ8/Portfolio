@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Client", "WPF_Client\WPF_Client.csproj", "{0DF307B3-91D1-4651-B306-00C29930485F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1EA1599-EFFB-4292-8359-9027D5BD062D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientBackLogic", "ClientBackLogic\ClientBackLogic.csproj", "{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF307B3-91D1-4651-B306-00C29930485F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF307B3-91D1-4651-B306-00C29930485F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF307B3-91D1-4651-B306-00C29930485F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF307B3-91D1-4651-B306-00C29930485F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7D9AB6-C236-4DC6-AF0F-04AE031F8CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA7FA70-FD30-479A-BCF1-DDFAB586D45D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\bin\Debug\net7.0\BackLogic.deps.json
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\bin\Debug\net7.0\BackLogic.dll
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\bin\Debug\net7.0\BackLogic.pdb
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.csproj.AssemblyReference.cache
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.AssemblyInfoInputs.cache
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.AssemblyInfo.cs
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.dll
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\refint\BackLogic.dll
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.pdb
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\ref\BackLogic.dll
+D:\GitHub Repos\SOA_Microservices\WPF_Client\BackLogic\obj\Debug\net7.0\BackLogic.sourcelink.json

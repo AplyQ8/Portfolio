@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a13a7e4-f715-4f6c-bc88-f64dddf7ee20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/springbootapp/src/main/java/com/ChatService/springbootapp/Functionality/ChatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootapp/src/main/java/com/ChatService/springbootapp/Functionality/ChatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springbootapp/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2eMlnhaatVqbCPx3RnD4raQJCTO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SpringbootappApplication.executor": "Run",
+    "git-widget-placeholder": "KubernetesDeployment__branch",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringbootappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springbootapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ChatService.springbootapp.SpringbootappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a13a7e4-f715-4f6c-bc88-f64dddf7ee20" name="Changes" comment="" />
+      <created>1711722497846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711722497846</updated>
+      <workItem from="1711722500126" duration="89000" />
+      <workItem from="1712332281730" duration="1321000" />
+      <workItem from="1712357277395" duration="2023000" />
+      <workItem from="1712398414339" duration="1301000" />
+      <workItem from="1712484318460" duration="1710000" />
+      <workItem from="1712530621385" duration="930000" />
+      <workItem from="1712606532026" duration="991000" />
+      <workItem from="1712609238659" duration="1341000" />
+      <workItem from="1712656506246" duration="3206000" />
+      <workItem from="1712846572067" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+D:\GitHub Repos\ADTransformer\ADTransformer\ADTransformer\bin\Debug\ADTransformer.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\ADTransformer\bin\Debug\ADTransformer.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\ADTransformer\obj\Debug\ADTransformer.csproj.AssemblyReference.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\ADTransformer\obj\Debug\ADTransformer.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\ADTransformer\obj\Debug\ADTransformer.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\ADTransformer\obj\Debug\ADTransformer.pdb

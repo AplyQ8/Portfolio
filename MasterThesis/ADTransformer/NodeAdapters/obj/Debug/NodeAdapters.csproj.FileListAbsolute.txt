@@ -1,0 +1,11 @@
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\bin\Debug\NodeAdapters.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\bin\Debug\NodeAdapters.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\bin\Debug\Parser.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\bin\Debug\PrismCodeGenerator.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\bin\Debug\Parser.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\bin\Debug\PrismCodeGenerator.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\obj\Debug\NodeAdapters.csproj.AssemblyReference.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\obj\Debug\NodeAdapters.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\obj\Debug\NodeAdap.72D529BE.Up2Date
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\obj\Debug\NodeAdapters.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\NodeAdapters\obj\Debug\NodeAdapters.pdb

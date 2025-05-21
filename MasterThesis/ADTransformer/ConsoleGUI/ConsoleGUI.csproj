@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{B15EAB5A-4B5A-430B-A554-24A7BF05F0E2}</ProjectGuid>
+        <OutputType>Exe</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <RootNamespace>ConsoleGUI</RootNamespace>
+        <AssemblyName>ConsoleGUI</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Program.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\NodeAdapters\NodeAdapters.csproj">
+        <Project>{e579f370-e744-4d9e-8240-bc4151e2f41e}</Project>
+        <Name>NodeAdapters</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\ParetoFrontBuilder\ParetoFrontBuilder.csproj">
+        <Project>{bb091706-92b2-41e0-a387-4c71eaf7644e}</Project>
+        <Name>ParetoFrontBuilder</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\Parser\Parser.csproj">
+        <Project>{4dbf18a5-b5f1-43f0-836f-819dce0b5fe9}</Project>
+        <Name>Parser</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\PrismCodeGenerator\PrismCodeGenerator.csproj">
+        <Project>{47285051-15a1-4f9a-af37-410c9aeecfb2}</Project>
+        <Name>PrismCodeGenerator</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\PrismFileExporter\PrismFileExporter.csproj">
+        <Project>{ef1cf879-8feb-4ea3-9770-20ad04eafc0b}</Project>
+        <Name>PrismFileExporter</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\PrismRunner\PrismRunner.csproj">
+        <Project>{cec29ad2-149c-4786-9a7b-7e73d9e62373}</Project>
+        <Name>PrismRunner</Name>
+      </ProjectReference>
+      <ProjectReference Include="..\Utilities\Utilities.csproj">
+        <Project>{47fe1fcc-3e85-4429-85e5-6f04d4f9934b}</Project>
+        <Name>Utilities</Name>
+      </ProjectReference>
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+
+</Project>

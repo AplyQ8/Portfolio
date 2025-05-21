@@ -1,0 +1,8 @@
+filter(min, Pmax=? [ F "system_secure" & ("end_game" | "deadlock") ], defender_budget=0)
+
+filter(min, Pmax=? [ F "system_secure" & ("end_game" | "deadlock") ], defender_budget=2)
+
+filter(min, Pmax=? [ F "system_secure" & ("end_game" | "deadlock") ], defender_budget=3)
+
+filter(min, Pmax=? [ F "system_secure" & ("end_game" | "deadlock") ], defender_budget=5)
+

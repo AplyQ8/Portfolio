@@ -1,0 +1,2 @@
+<<attacker>> Pmax=? [ F "top_event_reached" & ("end_game" | "deadlock") ]
+

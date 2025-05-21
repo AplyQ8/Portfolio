@@ -1,0 +1,9 @@
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\bin\Debug\PrismFileExporter.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\bin\Debug\PrismFileExporter.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\bin\Debug\Utilities.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\bin\Debug\Utilities.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\obj\Debug\PrismFileExporter.csproj.AssemblyReference.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\obj\Debug\PrismFileExporter.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\obj\Debug\PrismFil.21C17BD4.Up2Date
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\obj\Debug\PrismFileExporter.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismFileExporter\obj\Debug\PrismFileExporter.pdb

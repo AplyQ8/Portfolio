@@ -1,0 +1,11 @@
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\bin\Debug\PrismRunner.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\bin\Debug\PrismRunner.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\obj\Debug\PrismRunner.csproj.AssemblyReference.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\obj\Debug\PrismRunner.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\obj\Debug\PrismRunner.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\obj\Debug\PrismRunner.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\bin\Debug\Utilities.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\bin\Debug\Utilities.pdb
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\obj\Debug\PrismRun.BEBF2AB0.Up2Date
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\bin\Debug\PrismCodeGenerator.dll
+D:\GitHub Repos\ADTransformer\ADTransformer\PrismRunner\bin\Debug\PrismCodeGenerator.pdb

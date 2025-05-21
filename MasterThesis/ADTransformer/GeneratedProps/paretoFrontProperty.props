@@ -1,0 +1,4 @@
+R{"attacker_cost"}min=? [ F "top_event_reached" ]
+
+R{"defender_cost"}min=? [ F ("deadlock"&"system_secure") ]
+

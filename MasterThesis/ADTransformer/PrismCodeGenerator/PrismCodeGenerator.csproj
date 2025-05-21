@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{47285051-15A1-4F9A-AF37-410C9AEECFB2}</ProjectGuid>
+        <OutputType>Library</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <RootNamespace>PrismCodeGenerator</RootNamespace>
+        <AssemblyName>PrismCodeGenerator</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="AttackerCostSummarizer.cs" />
+        <Compile Include="DefenderCostSummarizer.cs" />
+        <Compile Include="ICodeSectionGenerator.cs" />
+        <Compile Include="Models\GateType.cs" />
+        <Compile Include="Models\Node.cs" />
+        <Compile Include="Models\PlayerType.cs" />
+        <Compile Include="PrismCodeComposer.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="PropertyGenerator.cs" />
+        <Compile Include="SectionGenerators\BudgetSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\FormulasSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\GenerateDefenderGlobalVariables.cs" />
+        <Compile Include="SectionGenerators\GlobalsSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\LabelsSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\PlayerModuleSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\PlayersSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\RewardsSectionGenerator.cs" />
+        <Compile Include="SectionGenerators\SmgSectionGenerator.cs" />
+        <Compile Include="StaticGlobalVariableHolder.cs" />
+        <Compile Include="Utils\BudgetManager.cs" />
+        <Compile Include="Utils\DefenderCombinationGenerator.cs" />
+        <Compile Include="Utils\FormulaTreeBuilder.cs" />
+        <Compile Include="Utils\NameFormatter.cs" />
+        <Compile Include="Utils\NodeIsNotAnActionException.cs" />
+        <Compile Include="Utils\TreeWalker.cs" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+
+</Project>

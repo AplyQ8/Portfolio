@@ -7,7 +7,7 @@ Here you’ll find a curated selection of my academic and personal software engi
 
 ## 📦 Projects Overview
 
-### 🕹️ [Dark Fantasy 2D Game](./UnityGame/README.md)
+### 🕹️ [Dark Fantasy 2D Game](./UnityGame)
 
 > A 2D top-down RPG game built in Unity with a custom skill tree, inventory system, and immersive dark-fantasy lore.
 
@@ -16,7 +16,7 @@ Here you’ll find a curated selection of my academic and personal software engi
 
 ---
 
-### 🎮 [The Quest for El Dorado](./JavaGame_Eldorado/README.md)
+### 🎮 [The Quest for El Dorado](./JavaGame_Eldorado)
 
 > A digital Java-based version of the famous board game *The Quest for El Dorado*, created as a university project.
 
@@ -25,7 +25,7 @@ Here you’ll find a curated selection of my academic and personal software engi
 
 ---
 
-### 🔧 [ADTransformer](./MasterThesis/README.md)
+### 🔧 [ADTransformer](./MasterThesis)
 
 > A tool for transforming and analyzing Attack-Defence Trees using model checking.
 
@@ -34,7 +34,7 @@ Here you’ll find a curated selection of my academic and personal software engi
 
 ---
 
-### 🏋️‍♂️ [Online Sports Center System](./MicroservicesProject/README.md)
+### 🏋️‍♂️ [Online Sports Center System](./MicroservicesProject)
 
 > A microservice-based system for managing sports centers, built using SOA principles.
 
@@ -43,7 +43,7 @@ Here you’ll find a curated selection of my academic and personal software engi
 
 ---
 
-### 🗃️ [BabyCOBOL Interpreter](./BabyCobol_Interpreter/README.md)
+### 🗃️ [BabyCOBOL Interpreter](./BabyCobol_Interpreter)
 
 > A simplified COBOL-like interpreter designed for educational and experimental purposes.
 

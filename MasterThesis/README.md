@@ -44,10 +44,12 @@ Optionally, ADTransformer can **automatically generate the Pareto front**, provi
 
 📊 CSV file with raw results for post-analysis
 
-**Example Model:**
+*Example Model:*
+
 ![adt](Pictures/ADT.png)
 
-**Pareto Front:**
+*Pareto Front:*
+
 ![pareto](Pictures/ParetoFront.png)
 
 [**Generated PRISM code:**](ADTransformer/GeneratedPrismFiles/generatedSample.prism)

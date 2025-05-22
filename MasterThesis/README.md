@@ -52,7 +52,7 @@ Optionally, ADTransformer can **automatically generate the Pareto front**, provi
 
 ![pareto](Pictures/ParetoFront.png)
 
-[**Generated PRISM code:**](ADTransformer/GeneratedPrismFiles/generatedSample.prism)
+[**Generated PRISM code**](ADTransformer/GeneratedPrismFiles/generatedSample.prism)
 
 ---
 
